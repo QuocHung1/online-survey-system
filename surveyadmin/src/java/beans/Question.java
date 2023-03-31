@@ -7,9 +7,9 @@ public class Question {
 
     private String id, text, opt1, opt2, opt3, topicid, message;
 
-    public String getId() {
-        return id;
-    }
+//    public String getId() {
+//        return id;
+//    }
 
     public void setId(String id) {
         this.id = id;
